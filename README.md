@@ -1,6 +1,6 @@
 # Tema 6 - Ordinare una pizza
 
-## Tu non hai fame?!
+### Tu non hai fame?!
 
 Dopo una lunga giornata passata al pc, ho proprio voglia di concedermi una bella pizza succulenta!
 Sì, ma quale?
